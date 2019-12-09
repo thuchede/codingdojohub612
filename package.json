@@ -1,0 +1,10 @@
+{
+  "name": "meetup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Thomas",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
